@@ -1,3 +1,3 @@
-Write-Output "hello $env:USERNAME!"
+Write-Output "hali $env:USERNAME!"
 
 "Hello"
